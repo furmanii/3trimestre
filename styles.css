@@ -20,7 +20,8 @@ align-items: center;
 justify-content: center;
 }
 .cabecalho-imagem{
-width: 5%;
+width: 150px;
+height: auto;
 display: flex;
 justify-content: flex-start;
 align-items: center;
