@@ -13,7 +13,7 @@ width: 100%;
 padding: 20px;
 }
 .cabeçalho-itens{
-max-width: 1980px;
+max-width: 100px;
 margin: 0 auto;
 display: flex;
 align-items: center;
@@ -21,7 +21,7 @@ justify-content: center;
 background-color: #830000;
 }
 .cabeçalho_imagem{
-width: 9px;
+width: 100px;
 height: auto;
 display: flex;
 justify-content: flex-start;
